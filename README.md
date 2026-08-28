@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# Welcome to The Mighty Nein!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This is the place where the code is stored, cause it took too long for me to figure out how it worked
