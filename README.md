@@ -109,8 +109,4 @@ These additions extend the existing GAN model beyond training by providing a com
 The trained discriminator can be evaluated against previously unseen IoT network traffic, its anomaly detection performance can be measured using recognised classification metrics, and the results can be presented through visualisations that make the model's behaviour easier to understand.
 
 The evaluation results can also be used to identify strengths and weaknesses in the GAN approach and support comparison with the LSTM model being developed as part of the THEIA IoT anomaly detection project.
-
-```
-
-This treats your contribution as **one complete extension** to Hayden's original GAN: dataset handling → preprocessing → testing → classification → metrics → graphs. It doesn't mention the debugging history, code compression, previous versions, or make anything sound like it was bolted on afterward.
 ```
