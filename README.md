@@ -2,17 +2,17 @@
 
 ## Overview
 
-This code extends the existing GAN model by adding functionality for testing and evaluating the trained discriminator using the `test.csv` dataset from CICIoT2023.
+This code extends the existing GAN model by adding functionality for dataset access, test data preparation, anomaly detection, model evaluation and result visualisation.
 
-The purpose of these additions is to determine how effectively the trained GAN can identify anomalous IoT network traffic and to provide visual representations of the model's performance.
+The purpose of these additions is to allow the trained GAN discriminator to be tested against previously unseen IoT network traffic from the CICIoT2023 `test.csv` dataset and determine how effectively it can distinguish benign traffic from anomalous or malicious traffic.
 
-The code has also been updated to allow the training and testing datasets to be accessed through a shared Google Drive folder. This allows multiple team members to run the same Google Colab notebook without manually uploading the datasets whenever a new runtime session is started.
+The code also supports shared access to the training and testing datasets through Google Drive, allowing multiple team members to run the same Google Colab notebook without repeatedly uploading the datasets for each runtime session.
 
 ## Features Added
 
 ### Shared Dataset Access
 
-The code mounts Google Drive in Google Colab and accesses the training and testing datasets from a shared folder named `Theia_Data`.
+The code mounts Google Drive in Google Colab and accesses the project datasets from a shared folder named `Theia_Data`.
 
 The expected dataset locations are:
 
