@@ -20,7 +20,7 @@ The expected dataset locations are:
 ```text
 /content/drive/MyDrive/Theia_Data/train.csv
 /content/drive/MyDrive/Theia_Data/test.csv
-````
+```
 
 Each team member can add the shared `Theia_Data` folder as a shortcut inside their own `My Drive`, allowing the same notebook and file paths to be used by the whole team.
 
