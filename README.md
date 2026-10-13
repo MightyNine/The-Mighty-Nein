@@ -1,3 +1,3 @@
-# Welcome to The Mighty Nein!
+# Welcome to The Mighty Nein Repository!
 
-This is the place where the code is stored, cause it took too long for me to figure out how it worked
+This is the place where the code for tbe models are stored.
